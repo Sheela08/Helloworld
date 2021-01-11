@@ -1,6 +1,6 @@
 package Hello;
 
-public class Hello;
+public class Hello
 {
 
    public static void main(Strings[]args)
